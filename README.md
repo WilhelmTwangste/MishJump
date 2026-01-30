@@ -2,7 +2,6 @@
 
 [![Unity](https://img.shields.io/badge/Сборка-Unity-000000.svg?style=flat&logo=unity&logoColor=white)](https://unity.com/)
 [![Language](https://img.shields.io/badge/Язык-C%23-239120.svg?style=flat&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/ru-ru/dotnet/csharp/)
-[![Platform](https://img.shields.io/badge/Платформа-Windows-0078D6?style=flat&logo=windows&logoColor=white)](https://www.microsoft.com/ru-ru/windows)
 
 ## Краткое описание
 
